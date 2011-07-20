@@ -1,8 +1,7 @@
-
 /*
 
 This is a JavaScript version of the Inflate process.
-The conversion to JavaScript was performed by Casey Leonard but
+The conversion to JavaScript was performed by Casey W. Leonard but
 it is based on puff.c written by Mark Adler. Most of the comments
 you see are his. The notice below is from that version of the code. 
 
